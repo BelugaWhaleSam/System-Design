@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Flowchart 2024-04-09 04.22.26.excalidraw.md"
+                "file": "Excalidraw/Use case UML Diagram 2024-04-12 11.43.55.excalidraw.md"
               }
             }
           }
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "369ceb51af850e22",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Flowchart 2024-04-09 04.22.26.excalidraw.md",
+                "file": "Excalidraw/Use case UML Diagram 2024-04-12 11.43.55.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Flowchart 2024-04-09 04.22.26.excalidraw.md",
+                "file": "Excalidraw/Use case UML Diagram 2024-04-12 11.43.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Flowchart 2024-04-09 04.22.26.excalidraw.md"
+                "file": "Excalidraw/Use case UML Diagram 2024-04-12 11.43.55.excalidraw.md"
               }
             }
           }
@@ -147,7 +147,9 @@
   },
   "active": "428f67b638c7f46a",
   "lastOpenFiles": [
-    "Live Streaming Application/Flowchart.md",
+    "Live Streaming Application/Use case UML Diagram.md",
+    "Excalidraw/Use case UML Diagram 2024-04-12 11.43.55.excalidraw.md",
+    "Live Streaming Application/High-Level Design.md",
     "Excalidraw/Flowchart 2024-04-09 04.22.26.excalidraw.md",
     "Excalidraw",
     "Welcome.md",
