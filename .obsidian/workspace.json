@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Class Diagrams 2024-04-13 10.48.14.excalidraw.md"
+                "file": "Excalidraw/Sequence UML 2024-04-16 09.02.51.excalidraw.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Class Diagrams 2024-04-13 10.48.14.excalidraw.md",
+                "file": "Excalidraw/Sequence UML 2024-04-16 09.02.51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Class Diagrams 2024-04-13 10.48.14.excalidraw.md",
+                "file": "Excalidraw/Sequence UML 2024-04-16 09.02.51.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Class Diagrams 2024-04-13 10.48.14.excalidraw.md"
+                "file": "Excalidraw/Sequence UML 2024-04-16 09.02.51.excalidraw.md"
               }
             }
           }
@@ -147,10 +147,12 @@
   },
   "active": "428f67b638c7f46a",
   "lastOpenFiles": [
-    "Live Streaming Application/Class Diagrams.md",
-    "Excalidraw/Class Diagrams 2024-04-13 10.48.14.excalidraw.md",
-    "Excalidraw/Use case UML Diagram 2024-04-12 11.43.55.excalidraw.md",
+    "Live Streaming Application/Sequence UML.md",
+    "Excalidraw/Sequence UML 2024-04-16 09.02.51.excalidraw.md",
     "Live Streaming Application/Use case UML Diagram.md",
+    "Excalidraw/Use case UML Diagram 2024-04-12 11.43.55.excalidraw.md",
+    "Excalidraw/Class Diagrams 2024-04-13 10.48.14.excalidraw.md",
+    "Live Streaming Application/Class Diagrams.md",
     "Live Streaming Application/High-Level Design.md",
     "Excalidraw/Flowchart 2024-04-09 04.22.26.excalidraw.md",
     "Excalidraw",
