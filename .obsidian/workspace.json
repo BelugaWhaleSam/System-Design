@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0c3d1febb808f95c",
+        "id": "599dd2cee91e0314",
         "type": "tabs",
         "children": [
           {
-            "id": "428f67b638c7f46a",
+            "id": "a21e0fdc07b08d45",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Sequence UML 2024-04-16 09.02.51.excalidraw.md"
+                "file": "Live Streaming Application/Server.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Sequence UML 2024-04-16 09.02.51.excalidraw.md",
+                "file": "Live Streaming Application/Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Sequence UML 2024-04-16 09.02.51.excalidraw.md",
+                "file": "Live Streaming Application/Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Sequence UML 2024-04-16 09.02.51.excalidraw.md"
+                "file": "Live Streaming Application/Server.md"
               }
             }
           }
@@ -145,15 +147,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "428f67b638c7f46a",
+  "active": "a21e0fdc07b08d45",
   "lastOpenFiles": [
-    "Live Streaming Application/Sequence UML.md",
-    "Excalidraw/Sequence UML 2024-04-16 09.02.51.excalidraw.md",
     "Live Streaming Application/Use case UML Diagram.md",
+    "Live Streaming Application/Server.md",
+    "Live Streaming Application/Sequence UML.md",
+    "Live Streaming Application/High-Level Design.md",
+    "Live Streaming Application/Class Diagrams.md",
+    "Excalidraw/Sequence UML 2024-04-16 09.02.51.excalidraw.md",
     "Excalidraw/Use case UML Diagram 2024-04-12 11.43.55.excalidraw.md",
     "Excalidraw/Class Diagrams 2024-04-13 10.48.14.excalidraw.md",
-    "Live Streaming Application/Class Diagrams.md",
-    "Live Streaming Application/High-Level Design.md",
     "Excalidraw/Flowchart 2024-04-09 04.22.26.excalidraw.md",
     "Excalidraw",
     "Welcome.md",
